@@ -13,7 +13,7 @@ public class RaceGame {
 	
 	/**
 	 * The entry point for the race simulation game.
-	 * @param args
+	 * @param args main method to run simulator
 	 */
 
 	public static void main(String[] args) {
